@@ -1,4 +1,10 @@
 ## Welcome to GitHub Pages
+[Create Account](CREATE-ACCOUNT.html)
+[Sign In](SIGN-IN.html)
+[Shop From App](SHOP-FROM-APP.html)
+[Pickup Order From Cashier](PICKUP-ORDER-FROM-CASHIER.html)
+[Report Non-App Issues](REPORT-NON-APP-ISSUES.html)
+[Report App Bugs to Devs](REPORT-APP-BUGS-TO-DEVS.html)
 
 You can use the [editor on GitHub](https://github.com/jaketheholmes/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
